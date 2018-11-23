@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.522,=D:\СиАОД\Польская запись\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.658,=D:\СиАОД\Польская запись\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.511,D:\СиАОД\Польская запись\Polskaya_zapis.dproj=D:\Users10\Mi Pro\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.897,D:\СиАОД\Units\Stack.pas=D:\СиАОД\Польская запись\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,D:\СиАОД\Units\_2kyString.pas=D:\СиАОД\Польская запись\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
